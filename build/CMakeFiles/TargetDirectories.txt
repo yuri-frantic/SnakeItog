@@ -1,0 +1,4 @@
+C:/Users/Frantic.DMC/SNAKE1/build/CMakeFiles/SnakeGame.dir
+C:/Users/Frantic.DMC/SNAKE1/build/CMakeFiles/edit_cache.dir
+C:/Users/Frantic.DMC/SNAKE1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Frantic.DMC/SNAKE1/build/CMakeFiles/SnakeGame_autogen.dir
